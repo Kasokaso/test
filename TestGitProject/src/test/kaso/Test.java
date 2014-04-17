@@ -3,8 +3,7 @@ package test.kaso;
 public class Test {
 
 	public Test() {
-		// master1111
-		// dev11
+		// M1
 
 	}
 
