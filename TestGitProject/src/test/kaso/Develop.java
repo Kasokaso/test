@@ -11,7 +11,7 @@ public class Develop {
 		// peta
 		// sesta
 		// sedma
-		// osma
+		// osmaerewrwer
 
 		// TODO Auto-generated constructor stub
 		// novi dev
