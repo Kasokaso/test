@@ -3,10 +3,6 @@ package test.kaso;
 public class Test {
 
 	public Test() {
-		// M1
-
-		// M2
-		// M3
 
 	}
 
