@@ -9,6 +9,7 @@ public class Develop {
 		// cetvrta
 		// peta
 		// sesta
+		// sedma
 	}
 
 	public static void main(String[] args) {
