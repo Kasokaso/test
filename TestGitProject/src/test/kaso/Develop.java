@@ -7,6 +7,8 @@ public class Develop {
 		// druga
 		// treca
 		// cetvrta
+		// peta
+		// sesta
 	}
 
 	public static void main(String[] args) {
