@@ -6,7 +6,6 @@ public class Test {
 		// TODO Auto-generated constructor stub
 		// fix1
 		// fix 3
-		// fix2
 	}
 
 	public static void main(String[] args) {
