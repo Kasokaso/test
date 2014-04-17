@@ -10,6 +10,7 @@ public class Develop {
 		// peta
 		// sesta
 		// sedma
+		// osma
 	}
 
 	public static void main(String[] args) {
