@@ -12,6 +12,10 @@ public class Develop {
 		// sesta
 		// sedma
 		// osma
+
+		// TODO Auto-generated constructor stub
+		// novi dev
+
 	}
 
 	public static void main(String[] args) {
