@@ -3,7 +3,7 @@ package test.kaso;
 public class Master {
 
 	public Master() {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stubsdfasdfasd
 	}
 
 	public static void main(String[] args) {
