@@ -14,11 +14,19 @@ public abstract class Duck {
 	}
 
 	public void performQuack() {
-		quackBehaviour.quack();
+		if (quackBehaviour != null) {
+			quackBehaviour.quack();
+		} else {
+			throw new NullPointerException("Quack behaviour is null");
+		}
 	}
 
 	public void performFly() {
-		flyBehaviour.fly();
+		if (flyBehaviour != null) {
+			flyBehaviour.fly();
+		} else {
+			throw new NullPointerException("Fly behaviour is null");
+		}
 	}
 
 	public void setQuackBehaviour(QuackBehaviour quackBehaviour) {
