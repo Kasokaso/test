@@ -1,5 +1,11 @@
 package test.chain.of.responsability2;
 
+/**
+ * Creates chain and return first {@link Handler} in chain
+ * 
+ * @author Kaso
+ * 
+ */
 public class Chain {
 
 	public Handler createChain() {
