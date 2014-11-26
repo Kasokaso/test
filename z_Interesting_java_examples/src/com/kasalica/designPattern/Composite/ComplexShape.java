@@ -16,7 +16,7 @@ public class ComplexShape implements Shape {
 
 		shapeList.add(shapeToAddToCurrentShape);
 		
-	}
+	} 
 
 	
 	public Shape[] explodeShape() {
